@@ -85,7 +85,7 @@ print(20 / 5)
 A variable is like a labeled box where you store information.
 
 ```
-name = "Aarav"
+name = "MyName"
 age = 8
 print(name)
 print(age)
